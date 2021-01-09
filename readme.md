@@ -1,4 +1,4 @@
-# C++ Program
+# Loch Ness OS
 
 ## About
 
