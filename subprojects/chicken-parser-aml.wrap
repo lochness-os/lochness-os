@@ -1,0 +1,7 @@
+[wrap-git]
+directory = chicken-parser-aml
+url = https://github.com/chicken-libraries/chicken-parser-aml.git
+revision = main
+
+[provide]
+chicken_parser_aml = chicken_parser_aml_dep
