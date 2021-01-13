@@ -1,3 +1,0 @@
-[submodule "LibC"]
-	path = libc
-	url = https://github.com/managarm/mlibc.git
