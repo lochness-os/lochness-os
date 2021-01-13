@@ -1,0 +1,8 @@
+{
+    "useBackgroundImage" : true,
+    "backgroundImage" : "/system/lochness/backgrounds/bg5.png",
+    "theme" : "/system/lochness/themes/default.json",
+    "useExperimentalClipping" : false,
+    "displayFramerate" : false,
+    "capFramerate" : false
+}
