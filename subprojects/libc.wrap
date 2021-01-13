@@ -1,0 +1,4 @@
+[wrap-git]
+directory = libc
+url = https://github.com/managarm/mlibc.git
+revision = head
