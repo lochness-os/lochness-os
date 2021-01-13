@@ -4,7 +4,7 @@
 
 * * *
 
-Please add relevant information about your application.
+LochNess OS is a UNIX-like 64-bit operating system written in C++.
 
 ## Tooling information
 
