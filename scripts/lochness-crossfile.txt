@@ -1,0 +1,15 @@
+[binaries]
+c = 'lochness-clang'
+cpp = 'lochness-clang++'
+ar = 'x86_64-lochness-ar'
+strip = 'x86_64-lochness-strip'
+ld = 'x86_64-lochness-ld'
+
+[host_machine]
+system = 'lochness'
+cpu_family = 'x86_64'
+cpu = 'x86_64'
+endian = 'little'
+
+[paths]
+prefix = '~/.local/share/lochness/sysroot/system'
